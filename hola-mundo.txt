@@ -1,8 +1,4 @@
 Hola, mundo!
-
-there was master
-
+from master!
 Здесь был Петя
 Здесь был Вася
-
-
